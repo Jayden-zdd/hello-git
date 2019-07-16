@@ -1,1 +1,5 @@
 nihao,git
+
+To view the differenc
+
+For commit and push
