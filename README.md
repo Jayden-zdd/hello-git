@@ -9,6 +9,6 @@ add below info:
 199.232.69.194 github.global-ssl.fastly.net
 140.82.114.3 github.com
 
-2.save and refresh the DNS
-Winodws: CMD=>ipconfig /flushdns
-Linux: sudo /etc/init.d/networking restart
+2.save and refresh the DNS  
+* Winodws: CMD=>ipconfig /flushdns
+* Linux: sudo /etc/init.d/networking restart
